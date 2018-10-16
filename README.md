@@ -11,3 +11,4 @@
 6. Exercise Mampu menggabungkan konsep Conditional dan Looping dalam kasus sederhana.
 7. Exercise Function.
 8. Exercise Menggabungkan Konsep Perulangan dan Kondisional (Proxytia to Next Level).
+9. Exercise Tantangan Array 1 (Mengakses Nilai dalam Array).
