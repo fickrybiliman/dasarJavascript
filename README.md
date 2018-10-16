@@ -10,3 +10,4 @@
 5. Exercise Melakukan Perulangan Menggunakan for.
 6. Exercise Mampu menggabungkan konsep Conditional dan Looping dalam kasus sederhana.
 7. Exercise Function.
+8. Exercise Menggabungkan Konsep Perulangan dan Kondisional (Proxytia to Next Level).
