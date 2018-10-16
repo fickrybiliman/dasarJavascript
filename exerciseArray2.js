@@ -5,7 +5,6 @@ function dataHandling(arr) {
       console.log(`TTL : ${arr[i][2]}, ${arr[i][3]}`);
       console.log(`Hobi : ${arr[i][4]}`);
       console.log();
-      
    }
 }
 
