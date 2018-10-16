@@ -9,3 +9,4 @@
 4. Exercise Melakukan Perulangan Menggunakan while.
 5. Exercise Melakukan Perulangan Menggunakan for.
 6. Exercise Mampu menggabungkan konsep Conditional dan Looping dalam kasus sederhana.
+7. Exercise Function.
