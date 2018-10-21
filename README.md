@@ -14,3 +14,4 @@
 9.  Exercise Tantangan Array 1 (Mengakses Nilai dalam Array).
 10. Exercise Tantangan Array 2 (Melooping menggunakan Array).
 11. Exercise Tantangan Array 3 (Array Join, Split, Slice, Splice, Sort).
+11. Create Your Own JavaScript App (my app dan pseudocode).
